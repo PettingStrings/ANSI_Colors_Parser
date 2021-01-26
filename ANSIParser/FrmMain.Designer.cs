@@ -46,7 +46,7 @@ namespace ANSIParser
             this.rtxtBox.ReadOnly = true;
             this.rtxtBox.Size = new System.Drawing.Size(481, 326);
             this.rtxtBox.TabIndex = 0;
-            this.rtxtBox.Text = "TO DO: finish this form";
+            this.rtxtBox.Text = "Little Example, need more";
             // 
             // FrmMain
             // 
@@ -58,6 +58,7 @@ namespace ANSIParser
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "FrmMain";
             this.Text = "ANSI Parser test strings";
+            this.Load += new System.EventHandler(this.FrmMain_Load);
             this.ResumeLayout(false);
 
         }
