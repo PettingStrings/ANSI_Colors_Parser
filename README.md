@@ -7,4 +7,5 @@ It takes input an escaped string, and outputs the string with no escape,
 the foreground and gackground color, and the font styile.
 Example:
 TO DO
+## I'll make the code better, if somebody really need it
 ## Examples coming soon
