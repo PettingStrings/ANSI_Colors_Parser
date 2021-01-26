@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Nothing
 namespace ANSIParser
 {//WORK IN PROGRESS
     public partial class FrmMain : Form
